@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my GFS for school
 - 🌱 I’m currently learning JavaScript 
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: samira.rebholz@yahoo.com-->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love maths
 
